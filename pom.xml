@@ -13,7 +13,7 @@
     <description>It's used to aggregate all versions for cross stream projects</description>
 
     <scm>
-        <developerConnection>scm:git:https://github.com/pavelpisakov/test-release</developerConnection>
+        <developerConnection>scm:git:git@github.com:pavelpisakov/test-release.git</developerConnection>
     </scm>
 
     <build>
